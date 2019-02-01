@@ -3,7 +3,7 @@ include LICENSE
 include MANIFEST.in
 include README.rst
 include test_docformatter.py
+include .pre-commit-hooks.yaml
 
-exclude .pre-commit-hooks.yaml
 exclude .travis.yml
 exclude Makefile
